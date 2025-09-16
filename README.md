@@ -1,4 +1,5 @@
 📊 Bike Purchase Behavior Analysis – Excel Dashboard Project
+
 🔍 Overview
 This project analyzes consumer behavior related to bike purchases using a structured Excel dashboard. The dataset includes demographic and behavioral variables such as age, commute distance, salary, occupation, gender, marital status,education and region. The goal was to clean, transform, and visualize the data to uncover actionable insights and purchasing trends.
 
@@ -7,6 +8,7 @@ This project analyzes consumer behavior related to bike purchases using a struct
 - Data Cleaning: Removal of duplicates, standardization of categorical fields, validation checks
 - Formula Logic
 - Dashboarding: Dynamic charts, slicers, KPI indicators, user-friendly layout
+- 
 - 📈 Key Highlights
 - Cleaned and structured raw data to ensure consistency and analytical readiness
 - Engineered new features to segment users by age
