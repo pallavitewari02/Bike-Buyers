@@ -8,7 +8,7 @@ This project analyzes consumer behavior related to bike purchases using a struct
 - Data Cleaning: Removal of duplicates, standardization of categorical fields, validation checks
 - Formula Logic
 - Dashboarding: Dynamic charts, slicers, KPI indicators, user-friendly layout
-- 
+ 
 - 📈 Key Highlights
 - Cleaned and structured raw data to ensure consistency and analytical readiness
 - Engineered new features to segment users by age
