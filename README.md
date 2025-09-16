@@ -8,13 +8,13 @@ This project analyzes consumer behavior related to bike purchases using a struct
 - Data Cleaning: Removal of duplicates, standardization of categorical fields, validation checks
 - Formula Logic
 - Dashboarding: Dynamic charts, slicers, KPI indicators, user-friendly layout
- 
-- 📈 Key Highlights
+
+📈 Key Highlights
 - Cleaned and structured raw data to ensure consistency and analytical readiness
 - Engineered new features to segment users by age
 - Built an interactive dashboard with slicers and dynamic visualizations to explore purchase patterns
 - Delivered insights on how demographic factors influence bike purchase decisions
-- 
+  
 🎯 Business Impact
 
 This Excel dashboard serves as a lightweight yet powerful tool for retail analytics, demonstrating how spreadsheet-based solutions can drive data-driven decision-making. It reflects strong analytical thinking, attention to detail, and the ability to translate raw data into meaningful business insights.
