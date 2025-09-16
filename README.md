@@ -16,5 +16,6 @@ This project analyzes consumer behavior related to bike purchases using a struct
 - Delivered insights on how demographic factors influence bike purchase decisions
 - 
 🎯 Business Impact
+
 This Excel dashboard serves as a lightweight yet powerful tool for retail analytics, demonstrating how spreadsheet-based solutions can drive data-driven decision-making. It reflects strong analytical thinking, attention to detail, and the ability to translate raw data into meaningful business insights.
 
